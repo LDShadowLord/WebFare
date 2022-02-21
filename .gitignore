@@ -140,7 +140,7 @@ dmypy.json
 *.user
 *.userosscache
 *.sln.docstates
-*/.vs/*/*/.suo
+WebFare/.vs/WebFare/v17/.suo
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
